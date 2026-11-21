@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Sabari Nathan 👋
 
-<!--
-**Sabarinathan-mb/Sabarinathan-mb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & ML engineering student at Sri Eshwar College of Engineering, building AI-powered applications and robotics systems.
 
-Here are some ideas to get you started:
+**Currently exploring:** LLM applications, RAG pipelines, and computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack**
+Python · Java · JavaScript · React · FastAPI · Node.js · Tailwind CSS · Git
+
+**Featured projects**
+- **[Griefsync Agent]**: AI bereavement assistant that guides families through post-loss procedures using RAG and Groq
+- **[SkillSync AI]**: AI career coach with resume matching and personalized learning roadmaps
+- **[Saigai]**: Gesture-recognition robot using computer vision on Raspberry Pi with Tamil speech output
+
+**Achievements**
+- 🏆 Winner, Project Expo, Sri Eshwar College of Engineering (2026)
+- 🥈 Second Runner-Up, Karpagam Hackfest (2024)
